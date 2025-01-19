@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 An aspiring Computer Networks and Security student!
 ---------------------------------------------------
 
-👀 After being introduced to the fascinating world of computer science during my secondary school years, I discovered my personal interest in network security.💻 I’m currently studying Computer Networks & Security at Universiti Teknologi Malaysia (UTM).
+👀 After being introduced to the fascinating world of computer science during my secondary school years, I discovered my personal interest in network security. 💻 I’m currently studying Computer Networks & Security at Universiti Teknologi Malaysia (UTM).
 
 * 🌍  I'm based in Johor Bahru, Malaysia.
 * ✉️  You can contact me at [yeohbell@gmail.com](mailto:yeohbell@gmail.com)
